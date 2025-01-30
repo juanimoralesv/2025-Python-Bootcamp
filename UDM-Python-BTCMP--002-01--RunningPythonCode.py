@@ -22,5 +22,6 @@ type(df)
 # Now, let's code along the course
 print('Hello, world!')
 print('World, I said hello!')
+print('Santiago was here')
 
 
